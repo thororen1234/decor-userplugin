@@ -1,3 +1,5 @@
+This has been incorperated into Vencord and is no longer needed.
+
 This is a userplugin version of Decor (tracked upstream at https://github.com/Vendicated/Vencord/pull/910), place it in src/userplugins/decor.
 
 # Decor
